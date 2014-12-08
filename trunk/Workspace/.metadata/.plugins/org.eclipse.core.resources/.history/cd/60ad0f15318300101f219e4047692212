@@ -1,0 +1,16 @@
+package Exceptions;
+
+public class main_exception {
+	public static void main(String[] args) {
+		try{
+			System.out.println(divide(9,3));
+		}catch(ArithmeticException e){
+			e.printStackTrace();
+			System.out.println("Bestia no se divide por 0 da infinito");
+		}
+	}
+	
+	public static int divide(int a, int b){
+		return a/b;
+	}
+}

@@ -1,0 +1,10 @@
+Jul 1, 2011 6:49:33 PM Utils.Map_Log log_normal
+FINE: Started procesing file: 1.pto
+Jul 1, 2011 6:49:33 PM Utils.Map_Log log_normal
+FINE: Finished procesing file: 1.pto
+Jul 1, 2011 6:49:33 PM Utils.Map_Log log_normal
+FINE: Started procesing file 1.clle
+Jul 1, 2011 6:49:33 PM Utils.Map_Log log_warning
+WARNING: Archivo de puntos del set vacio,calles de: 1.clle no se cargaran.
+Jul 1, 2011 6:49:34 PM Utils.Map_Log log_normal
+FINE: Finished procesing file 1.clle

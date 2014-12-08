@@ -1,0 +1,38 @@
+Jul 1, 2011 6:50:53 PM Utils.System_Log log_normal
+FINE: Simulacion Iniciada
+Jul 1, 2011 6:52:18 PM Utils.System_Log log_normal
+FINE: Recalculando Rutas
+Jul 1, 2011 6:52:54 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 3, Destino: Id: 5) (0.0;0.0), Ambulancia: 3
+Jul 1, 2011 6:53:05 PM Utils.System_Log log_normal
+FINE: ENCOLADO: 4, Destino: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:05 PM Utils.System_Log log_normal
+FINE: EN ESPERA A RESPUESTA: 4, Destino: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:09 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 5) (0.0;0.0): 3
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 5) (0.0;0.0)
+Jul 1, 2011 6:53:15 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 3 Ambulancia: Sistema.Tipos.Ambulancias.Camion@54e9a7c2Destino Original: Id: 5) (0.0;0.0)

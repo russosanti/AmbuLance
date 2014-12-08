@@ -1,0 +1,126 @@
+Jun 4, 2011 8:58:52 PM Utils.System_Log log_normal
+FINE: Simulacion Iniciada
+Jun 4, 2011 8:59:53 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 1, Destino: Id: 10) (0.0;0.0), Ambulancia: 1
+Jun 4, 2011 9:00:21 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 2, Destino: Id: 18) (0.0;0.0), Ambulancia: 4
+Jun 4, 2011 9:00:39 PM Utils.System_Log log_normal
+FINE: ENESPERA A RESPUESTA: 3, Destino: Id: 25) (0.0;0.0)
+Jun 4, 2011 9:00:57 PM Utils.System_Log log_normal
+FINE: RECHAZADO: 3, Destino: Id: 25) (0.0;0.0)
+Jun 4, 2011 9:01:36 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:02:57 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:02:57 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:05:00 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:05:19 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:05:19 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:05:30 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:05:35 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:05:35 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 18) (0.0;0.0): 2
+Jun 4, 2011 9:05:55 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 10) (0.0;0.0): 1
+Jun 4, 2011 9:06:12 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:06:12 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:07:06 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:07:27 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:07:27 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:07:35 PM Utils.System_Log log_normal
+FINE: CHECKPOINT1: Ambulancia1 con destino a: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:07:41 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 1 Ambulancia: Sistema.Tipos.Ambulancias.Moto@12b3374Destino Original: Id: 10) (0.0;0.0)
+Jun 4, 2011 9:07:41 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:08:37 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:08:39 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:08:42 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia4 con destino a: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:08:44 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 2 Ambulancia: Sistema.Tipos.Ambulancias.Camion@13f3789Destino Original: Id: 18) (0.0;0.0)
+Jun 4, 2011 9:09:15 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 4, Destino: Id: 8) (0.0;0.0), Ambulancia: 2
+Jun 4, 2011 9:09:20 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 5, Destino: Id: 14) (0.0;0.0), Ambulancia: 1
+Jun 4, 2011 9:09:24 PM Utils.System_Log log_normal
+FINE: ENESPERA A RESPUESTA: 6, Destino: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:09:29 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:09:29 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:09:37 PM Utils.System_Log log_normal
+FINE: Recalculando Rutas
+Jun 4, 2011 9:09:44 PM Utils.System_Log log_normal
+FINE: ENCOLADO: 6, Destino: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:09:49 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:09:49 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:09:55 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:09:55 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 14) (0.0;0.0): 5
+Jun 4, 2011 9:10:00 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:10:00 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:10:09 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 8) (0.0;0.0): 4
+Jun 4, 2011 9:10:09 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:10:30 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:10:30 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:10:50 PM Utils.System_Log log_normal
+FINE: CHECKPOINT4: Ambulancia2 con destino a: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:10:50 PM Utils.System_Log log_normal
+FINE: CHECKPOINT5: Ambulancia1 con destino a: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:11:03 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 4 Ambulancia: Sistema.Tipos.Ambulancias.Moto@ec16a4Destino Original: Id: 8) (0.0;0.0)
+Jun 4, 2011 9:11:03 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 6, Destino: Id: 20) (0.0;0.0), Ambulancia: 2
+Jun 4, 2011 9:11:03 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 5 Ambulancia: Sistema.Tipos.Ambulancias.Moto@12b3374Destino Original: Id: 14) (0.0;0.0)
+Jun 4, 2011 9:11:06 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:10 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:11 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:12 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:14 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 20) (0.0;0.0): 6
+Jun 4, 2011 9:11:15 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:17 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:33 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:35 PM Utils.System_Log log_normal
+FINE: CHECKPOINT6: Ambulancia2 con destino a: Id: 20) (0.0;0.0)
+Jun 4, 2011 9:11:36 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 6 Ambulancia: Sistema.Tipos.Ambulancias.Moto@ec16a4Destino Original: Id: 20) (0.0;0.0)

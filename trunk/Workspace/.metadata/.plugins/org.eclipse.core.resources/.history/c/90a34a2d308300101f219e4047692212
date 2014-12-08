@@ -1,0 +1,13 @@
+package Exceptions;
+
+public class main_exception {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

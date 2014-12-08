@@ -1,0 +1,46 @@
+Jun 4, 2011 9:27:12 PM Utils.System_Log log_normal
+FINE: Simulacion Iniciada
+Jun 4, 2011 9:28:28 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 1, Destino: Id: 25) (0.0;0.0), Ambulancia: 8
+Jun 4, 2011 9:28:53 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 2, Destino: Id: 23) (0.0;0.0), Ambulancia: 1
+Jun 4, 2011 9:29:00 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 25) (0.0;0.0): 1
+Jun 4, 2011 9:29:07 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:29:13 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:29:20 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:29:24 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 23) (0.0;0.0): 2
+Jun 4, 2011 9:29:28 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 1 Ambulancia: Sistema.Tipos.Ambulancias.Helicoptero@1ffb8dcDestino Original: Id: 25) (0.0;0.0)
+Jun 4, 2011 9:29:28 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:29:43 PM Utils.System_Log log_normal
+FINE: Recalculando Rutas
+Jun 4, 2011 9:29:54 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:00 PM Utils.System_Log log_normal
+FINE: CHECKPOINT2: Ambulancia1 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:03 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 2 Ambulancia: Sistema.Tipos.Ambulancias.Moto@ec16a4Destino Original: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:18 PM Utils.System_Log log_normal
+FINE: DESPACHADO: 3, Destino: Id: 23) (0.0;0.0), Ambulancia: 3
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: LLEGO A DESTINOId: 23) (0.0;0.0): 3
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:23 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:32 PM Utils.System_Log log_normal
+FINE: CHECKPOINT3: Ambulancia3 con destino a: Id: 23) (0.0;0.0)
+Jun 4, 2011 9:30:34 PM Utils.System_Log log_normal
+FINE: VOLVIO AL HOSPITAL Pedido: 3 Ambulancia: Sistema.Tipos.Ambulancias.Camioneta@13a328fDestino Original: Id: 23) (0.0;0.0)

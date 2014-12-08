@@ -1,0 +1,15 @@
+package Utils;
+
+import Tipos.*;
+import Utils.Calle_Stream;
+import Utils.Punto_Stream;
+
+public class Admin_Ciudad {
+	
+	public static void Crear_Ciudad(ArrayLista<Punto> esquinas,ArrayLista<Calle> calles,String s){
+		Punto_Stream ps = new Punto_Stream("test");
+		Calle_Stream cs = new Calle_Stream("test");
+		esquinas = ps.leer_puntos();
+		calles = cs.leer_calles(esquinas);
+	}
+}

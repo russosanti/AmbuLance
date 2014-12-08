@@ -1,0 +1,6 @@
+#Fri Jun 10 20:36:30 ART 2011
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=new FlowLayout
